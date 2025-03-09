@@ -1,29 +1,23 @@
-# 410250: High Performance Computing 
-a) Explain with suitable diagram SIMD, MIMD architecture. [4]
-b) Explain the impact of Memory Latency & Memory Bandwidth on system
-performance. [6]
-c) Explain Message Passing Costs in Parallel Computers in parallel machines.
-[5]
+a) Explain any three decomposition technique with example? [6]
+b) Describe mapping technique for load balancing? [5]
+c) What are the characteristics of tasks. [4]
 
 OR
 
-Q2) a) Describe Uniform-memory-access and Non-uniform-memory-access with
-diagrammatic representation. [6]
-b) Describe the scope of parallel computing. Give applications of parallel
-computing. [4]
-c) Write a short note on (Any Two) [5]
-i) Dataflow Models
-ii) Demand Driven Computation
-iii) Cache Memory
+Q4) a) Explain in details parallel algorithm models? [6]
+b) Explain the different methods for Containing Interaction Overheads. [5]
+c) What are the characteristics of Inter-Task Interactions? [4]
 
-
-Q1) a) Explain the impact of Memory Latency & Memory Bandwidth on system
-performance? [6]
-b) Write note on Communication costs in parallel machines? [5]
-c) Explain with suitable diagram STMD, MIMD architecture? [4]
+a) Explain any three data decomposition techniques with examples. [6]
+b) Explain different characteristics of tasks. [4]
+c) Explain classification of Dynamic mapping techniques. [5]
 
 OR
 
-Q2) a) Explain basic working principle of Super scalar Architecture? [6]
-b) Describe UMA and NUMA multicomputer platforms? [5]
-c) What is VLIW processor? Write any two advantages of VLIW? [4]
+Q4) a) What are mapping techniques for load balancing? Explain at least two
+mapping techniques. [4]
+b) Explain any three parallel algorithm models with suitable examples. [6]
+c) Draw the task-dependency graph for finding the minimum number in the
+sequence {4, 9, 1, 7, 8, 11, 2, 12} where each node in the tree represents
+the task of finding the minimum of a pair of numbers. Compare this with
+serial version of finding minimum number from an array. [5]
